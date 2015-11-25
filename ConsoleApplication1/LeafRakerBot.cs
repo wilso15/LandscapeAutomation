@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class LeafRakerBot
+    class LeafRakerBot : ManualTools
     {
+        public bool HasLeavesToRake = true;
 
+        public string Name = string.Empty;
+        public void LayMulch()
+        {
+            Console.WriteLine("LeafRakerBot rakes leaves.");
+        }
     }
 }

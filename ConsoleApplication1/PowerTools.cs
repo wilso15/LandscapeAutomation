@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    public class PowerTools
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Landscaper Bot");
-            Console.ReadLine();
-
-        }
+        public bool HasLawnMower = true;
+        public bool HasHedgeTrimmer = true;
     }
 }

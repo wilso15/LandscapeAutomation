@@ -46,9 +46,11 @@
     <Compile Include="HedgeTrimmerBot.cs" />
     <Compile Include="LawnmowerBot.cs" />
     <Compile Include="LeafRakerBot.cs" />
+    <Compile Include="ManualTools.cs" />
     <Compile Include="MulchBot.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PowerTools.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

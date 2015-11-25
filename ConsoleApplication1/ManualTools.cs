@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    public class ManualTools 
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Landscaper Bot");
-            Console.ReadLine();
-
-        }
+        public bool HasWheelBarrow = true;
+        public bool HasRake = true;
     }
 }

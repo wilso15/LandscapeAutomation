@@ -5,3 +5,9 @@ C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\Console
 C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\LandscaperAutomationGit\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\LandscaperAutomationGit\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\LandscaperAutomationGit\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\LandscaperAutomationGit\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\LandscaperAutomationGit\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\LandscaperAutomation\LandscaperAutomationGit\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
